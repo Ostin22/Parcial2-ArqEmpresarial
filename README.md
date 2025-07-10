@@ -17,9 +17,7 @@ Se tiene una entidad Estudiante con los siguientes atributos id, cédula, nombre
 
 1. Abre una terminal en la carpeta del proyecto.
 
-2. Crea un entorno virtual (opcional pero recomendado):
+2. Crea un entorno virtual e instalar dependencia con pip install -r requirements.txt:
 
 3. Ejecutar con "  uvicorn main:app --reload  "
 
-```bash
-python -m venv env
